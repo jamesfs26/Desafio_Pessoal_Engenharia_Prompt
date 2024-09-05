@@ -22,15 +22,16 @@ https://myanimelist.net/animelist/james_Fonseca?status=6
 Quais obras da lista de Dropados chamou mais a sua atenção, dê a sua opinião citando a obra que mais chamou a sua atenção e por que da surpresa causada?
 
 LISTAS DE OBRAS CONCLUIDAS COM NOTAS E EXPERIÊNCIA
+
 •	Clannad After Story
-Genero: Drama, romance
-Nota: 10
-Descrição: Começa de forma lenta, porém se transforma após o episódio 10, seguindo uma Crescente de sofrimento até o último episódio. Incrível como Autor brinca com você e te quebra de várias formas.
+   Genero: Drama, romance
+   Nota: 10
+   Descrição: Começa de forma lenta, porém se transforma após o episódio 10, seguindo uma Crescente de sofrimento até o último      episódio. Incrível como Autor brinca com você e te quebra de várias formas.
 
 •	Anohana: The Flower We Saw That Day The Movie
-Nota: 10
-Gênero: Drama, Romance
-Descrição: Perfeito, emocionante, triste; porém, recompensador. Uma lição sobre perdão amizade, família e amor.
+   Nota: 10
+   Gênero: Drama, Romance
+   Descrição: Perfeito, emocionante, triste; porém, recompensador. Uma lição sobre perdão amizade, família e amor.
 
 •	Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu
 Gênero: Comedia, Romance

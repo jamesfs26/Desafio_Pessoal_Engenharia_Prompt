@@ -4,6 +4,7 @@ PROMPT:
 Quero que você confira a minha conta do MyAnimeList e gere notas para as obras assistidas (listadas abaixo da linha traçada) baseadas nos exemplos de obras animes que assisti, avaliando as notas que dei, e as descrições que escrevi da minha experiência, além, dos seus gêneros. Em resumo quero que você faça uma análise de sentimentos baseada nas obras que gosto tendo em vistas suas notas, descrições e gênero. Confira as listas de obras que estou assistindo no momento (19), concluídas (181), em espera (49), dropadas (30), e as que planejo assistir no futuro (39). E gere sugestões de próximas obras dentre as listas (em espera e planejo assistir no futuro) a serem assistidas em sequência ao concluir as obras que estou vendo no momento.
 
 LINKS DAS LISTAS:
+
 Assistindo no Momento: https://myanimelist.net/animelist/james_Fonseca?status=1
 
 Completo:

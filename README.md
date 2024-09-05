@@ -10,7 +10,7 @@ Este Desafio de Projeto Pessoal foi desenvolvido por mim: James Fonseca. Visa te
 
 ## GPT-4 - Criando notas e avaliações para os animes assistidos 📝🎌🎥
 
-Neste projeto farei com que o GPT-4 crie uma conta no site: https://myanimelist.net/ para adicionar meus animes favoritos, quero que ele gere as notas avaliativas dos animes baseados nas descrições fornecidas. Ele terá que fazer uma análise de sentimentos baseado  em algumas descrições que escrevi, e fazer a sugestão de notas de 0 a 10 para as obras concluidas. Quero que ele me recomende novas obras baseado no meu gosto pessoal, avaliando o genero das obras, nota, e descrição feita nas obras já concluidas.
+Neste projeto farei com que o GPT-4 visite o meu perfil no MyAnimeList https://myanimelist.net/ com o intuito de fazer uma análise das minhas notas e descrições dadas aos animes assistidos, quero que ele gere uma previsão de notas e descrições para alguns animes que assisti, baseados nas informações fornecidas nos prompts. Ele terá que fazer uma análise de sentimentos baseado  em algumas descrições que escrevi, e fazer a sugestão de notas de 0 a 10 para algumas obras concluidas que inclui no prompt sem avaliação ou nota. Quero que ele me recomende novas obras baseado no meu gosto pessoal, avaliando o genero das obras, nota, e descrição feita nas obras anteriores já concluidas.
 
 ## Microsoft Copilot - Fazendo transações internacionais com várias moedas ✈️🇬🇧💵🇯🇵🇺🇸🌏
 
